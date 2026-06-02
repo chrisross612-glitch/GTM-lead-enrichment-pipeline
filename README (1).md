@@ -215,5 +215,5 @@ Total cost to build: $0
 ## Author
 
 Former B2B SaaS AE pivoting into GTM Engineering. Building in public.  
-Portfolio: [your Notion link here]  
-LinkedIn: [your LinkedIn here]
+Notion Walkthrough: https://southern-mousepad-482.notion.site/notion-portfolio-page-373310708898800baa8be859661ccc0a?pvs=73
+LinkedIn: https://www.linkedin.com/in/chris-ross-902b8b171/
